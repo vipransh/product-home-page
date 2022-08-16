@@ -172,7 +172,7 @@ h1{
     top: 440px;
     margin-left: 180px;
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
     .intro-section{
         display: flex;
         flex-direction: column;
